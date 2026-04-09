@@ -68,3 +68,5 @@ transactionLog.forEach(([date,summary]) =>
 });
 
 console.log(`${getTotalExpenses(expenses)}`);
+
+// npx ts-node app.ts
